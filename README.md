@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋 soy Cristiano Ferreira Pereira</h1>
 <h3 align="center">Analista de datos júnior, estudio Base de Datos</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristiano301&label=Profile%20views&color=0e75b6&style=flat" alt="cristiano301" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cristiano301&label=Profile%20views&color=0e75b6&style=flat" alt="cristiano301" /> </p>
 
 - 🌱 I’m currently learning **SQL, Python**
 
@@ -21,8 +19,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiano301&show_icons=true&locale=en&layout=compact" alt="cristiano301" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiano301&show_icons=true&locale=en&layout=compact" alt="cristiano301" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiano301&show_icons=true&locale=en" alt="cristiano301" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiano301&show_icons=true&locale=en" alt="cristiano301" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristiano301&" alt="cristiano301" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristiano301&" alt="cristiano301" /></p>
